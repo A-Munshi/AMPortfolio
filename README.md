@@ -2,7 +2,7 @@ Welcome to Anuvab Munshi's portfolio, a showcase of innovative web design and de
 
 1. Engaging animations and interactive elements.
 2. Seamless experience across all devices.
-3. Creative sections: About Me, Skills, Projects, and Contact.
+3. Creative sections: Home, About Me, Skills, Projects, and Contact.
 4. Smooth transitions and unique hover effects.
 5. Functional buttons that navigate to the indicated websites.
 6. "About Me" section: animated picture and "Resume" button displaying my CV in a new window.
