@@ -24,8 +24,10 @@
     
             navLinks.forEach(link => {
                 link.classList.remove("active");
+                link.removeAttribute("aria-current");
                 if (link.getAttribute("href").includes(current)) {
                     link.classList.add("active");
+                    link.setAttribute("aria-current", "page");
                 }
             });
         }
@@ -369,4 +371,3 @@
         const currentYear = new Date().getFullYear();
         currentYearElement.textContent = currentYear;
     });
-
